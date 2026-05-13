@@ -184,7 +184,7 @@ export default function SimulasiPage() {
                         onClick={hitung}
                         className="w-full py-3 bg-yellow-600 hover:bg-yellow-700 text-white rounded-xl text-sm font-semibold transition-colors"
                     >
-                        🧮 Hitung
+                        Hitung
                     </button>
                 </div>
             ) : (
